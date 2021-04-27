@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thebadguyfromstarwars
+- 👀 I’m interested in ... Machine Learning and Everything AI
+- 🌱 I’m currently learning ... My Masters in ML
+- 💞️ I’m looking to collaborate on ... Everything interesting 
+- 📫 How to reach me ... Send Me A MsG
